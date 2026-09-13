@@ -1,0 +1,24 @@
+{
+    "rewrites": [
+        {
+            "source": "/card/:path*",
+            "destination": "/index.html"
+        },
+        {
+            "source": "/(.*)",
+            "destination": "/index.html"
+        }
+    ],
+    "redirects": [
+        {
+            "source": "/card/:id",
+            "destination": "/#/card/:id",
+            "permanent": false
+        },
+        {
+            "source": "/@:username",
+            "destination": "/#/@:username",
+            "permanent": false
+        }
+    ]
+}

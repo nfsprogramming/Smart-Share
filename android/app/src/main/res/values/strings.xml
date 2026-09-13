@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Smart Share</string>
+    <string name="title_activity_main">Smart Share</string>
+    <string name="package_name">com.nfsprogramming.smartshare</string>
+    <string name="custom_url_scheme">com.nfsprogramming.smartshare</string>
+    <string name="default_web_client_id">961158159458-irt69na3n9q8ds81ddrun3lo2upmi1gm.apps.googleusercontent.com</string>
+</resources>
